@@ -34,20 +34,20 @@ const Footer = () => {
             <i class="uil uil-instagram"></i>
           </a> */}
 
-          <a
+          {/* <a
             href="https://linktr.ee/atharva_uwu"
             className="footer__social-link"
             target="_blank"
           >
             <i class="bx bx-link-alt"></i>
-          </a>
+          </a> */}
 
           <a
             href="https://github.com/sartkthegr8"
             className="footer__social-link"
             target="_blank"
           >
-            <i class="uil uil-github-alt"></i>
+            <i class="uil uil-github-alt" style={{ fontSize: '40px' }}></i>
           </a>
         </div>
 

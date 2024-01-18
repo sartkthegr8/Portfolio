@@ -5,13 +5,13 @@ import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
 import Work6 from "../../assets/Work6.png";
 export const projectsData = [
-  {
-    id: 1,
-    image: Work1,
-    title: "TO-DO (MERN STACK)",
-    category: "web",
-    deploymentLink: "https://todo-x-mern.netlify.app/",
-  },
+  // {
+  //   id: 1,
+  //   image: Work1,
+  //   title: "TO-DO (MERN STACK)",
+  //   category: "web",
+  //   deploymentLink: "https://todo-x-mern.netlify.app/",
+  // },
   {
     id: 2,
     image: Work2,
@@ -26,13 +26,13 @@ export const projectsData = [
     category: "web",
     deploymentLink: "https://weather-i0.netlify.app/",
   },
-  {
-    id: 4,
-    image: Work3,
-    title: "Dino Runner",
-    category: "web",
-    deploymentLink: "https://dino-game-atharva-3000.netlify.app/",
-  },
+  // {
+  //   id: 4,
+  //   image: Work3,
+  //   title: "Dino Runner",
+  //   category: "web",
+  //   deploymentLink: "https://dino-game-atharva-3000.netlify.app/",
+  // },
   {
     id: 5,
     image: Work4,
